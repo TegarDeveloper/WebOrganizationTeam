@@ -34,5 +34,5 @@ Jika anda mendapatkan konten video dan dokumentasi ini dari pihak selain Belajar
 
 # Team Project 
 `1. Azka UI/UX Designer`<br/>
-`2. Tegar Full Stack Developer Desktop`
-`3. Vebrian Full Stack Developer Mobile`
+`2. Tegar Full Stack Developer Desktop`<br/>
+`3. Vebrian Full Stack Developer Mobile`<br/>
