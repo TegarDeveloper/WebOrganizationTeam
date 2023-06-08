@@ -30,3 +30,9 @@ SOFTWARE.
 Source code ini HANYA DAPAT DIGUNAKAN untuk member kelas BWAStore dan tidak diizinkan untuk disebarkan kepada pihak selain member kelas BWAStore.
 
 Jika anda mendapatkan konten video dan dokumentasi ini dari pihak selain BelajarKoding atau BuildWith Angga, dan bukan dari bagian member BWAStore, anda tidak diperkenankan untuk menggunakan source code ini.
+
+
+# Team Project 
+` 1. Azka UI/UX Designer`
+` 2. Tegar Full Stack Developer Desktop`
+` 3. Vebrian Full Stack Developer Mobile`
