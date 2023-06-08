@@ -33,6 +33,7 @@ Jika anda mendapatkan konten video dan dokumentasi ini dari pihak selain Belajar
 
 
 # Team Project 
-` 1. Azka UI/UX Designer`
-` 2. Tegar Full Stack Developer Desktop`
-` 3. Vebrian Full Stack Developer Mobile`
+`
+1. Azka UI/UX Designer
+2. Tegar Full Stack Developer Desktop
+3. 3. Vebrian Full Stack Developer Mobile`
